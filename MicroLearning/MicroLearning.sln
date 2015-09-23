@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroLearning", "MicroLearning\MicroLearning.csproj", "{50E40F40-786E-492A-A21A-D0EA044DD74A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLPIPE", "SQLPIPE\SQLPIPE.csproj", "{84E422D3-58E7-498A-9D51-3EA3994EEE71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATAPIPE", "DATAPIPE\DATAPIPE.csproj", "{1531A7AE-DEB5-4120-A1A6-DCF01842BEB6}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingMacroLearning", "ModelingProject1\ModelingMacroLearning.modelproj", "{72858D99-D155-4429-B9D2-D72DAE555562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E40F40-786E-492A-A21A-D0EA044DD74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E40F40-786E-492A-A21A-D0EA044DD74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E40F40-786E-492A-A21A-D0EA044DD74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E40F40-786E-492A-A21A-D0EA044DD74A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E422D3-58E7-498A-9D51-3EA3994EEE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E422D3-58E7-498A-9D51-3EA3994EEE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E422D3-58E7-498A-9D51-3EA3994EEE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E422D3-58E7-498A-9D51-3EA3994EEE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1531A7AE-DEB5-4120-A1A6-DCF01842BEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1531A7AE-DEB5-4120-A1A6-DCF01842BEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1531A7AE-DEB5-4120-A1A6-DCF01842BEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1531A7AE-DEB5-4120-A1A6-DCF01842BEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72858D99-D155-4429-B9D2-D72DAE555562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72858D99-D155-4429-B9D2-D72DAE555562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72858D99-D155-4429-B9D2-D72DAE555562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72858D99-D155-4429-B9D2-D72DAE555562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

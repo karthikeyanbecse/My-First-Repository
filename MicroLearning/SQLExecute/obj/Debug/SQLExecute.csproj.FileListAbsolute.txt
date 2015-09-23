@@ -1,0 +1,5 @@
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\SQLExecute\bin\Debug\SQLExecute.dll
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\SQLExecute\bin\Debug\SQLExecute.pdb
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\SQLExecute\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\SQLExecute\obj\Debug\SQLExecute.dll
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\SQLExecute\obj\Debug\SQLExecute.pdb

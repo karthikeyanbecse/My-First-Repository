@@ -1,0 +1,32 @@
+﻿.bottombar2{
+	height:33px;
+	width:968px;
+	margin:0 auto;
+	padding:0px;
+	background:url(http://cache.filehippo.com/img/bgprefooter.png) no-repeat center top;
+	color:#FFF;
+	font-size:0.8em;
+	text-align:center;
+	line-height:2.4em;
+}
+
+.bottombar2 #searchbox2 form input[type=text]{
+	padding: 3px;
+	font-size: 12px;
+	width:144px;
+	color:#999;
+	border:solid 3px #a2c9f8;
+}
+
+.bottombar2 #searchbox2 form input[type=text]{
+	margin: 4px 2px 4px 0px;
+}
+ .bottombar2 #searchbox2 form input[type=submit]
+ {
+     	padding: 1px 2px;
+	margin:0 0 4px 0;
+	color: #505050;
+	width: auto;
+	font-size: 12px;
+}
+

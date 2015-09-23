@@ -1,0 +1,5 @@
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\SQLPIPE\bin\Debug\SQLPIPE.dll
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\SQLPIPE\bin\Debug\SQLPIPE.pdb
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\SQLPIPE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\SQLPIPE\obj\Debug\SQLPIPE.dll
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\SQLPIPE\obj\Debug\SQLPIPE.pdb

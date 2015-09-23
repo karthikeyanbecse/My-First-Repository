@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MicroLearning.Services.WCFServices" CodeBehind="WCFServices.svc.cs" %>

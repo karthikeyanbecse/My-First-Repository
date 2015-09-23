@@ -1,0 +1,9 @@
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\MicroLearning\bin\MicroLearning.dll
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\MicroLearning\bin\MicroLearning.pdb
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\MicroLearning\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\MicroLearning\obj\Debug\MicroLearning.dll
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\MicroLearning\obj\Debug\MicroLearning.pdb
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\MicroLearning\bin\DATAPIPE.dll
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\MicroLearning\bin\SQLPIPE.dll
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\MicroLearning\bin\DATAPIPE.pdb
+C:\Users\KARTHIK\Desktop\Thesis\MicroLearning\MicroLearning\MicroLearning\bin\SQLPIPE.pdb
